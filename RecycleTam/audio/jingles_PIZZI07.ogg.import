@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/jingles_PIZZI07.ogg-0855b033bc7c8851e0d25ea900fb75d0.oggstr"
+
+[deps]
+
+source_file="res://audio/jingles_PIZZI07.ogg"
+dest_files=[ "res://.import/jingles_PIZZI07.ogg-0855b033bc7c8851e0d25ea900fb75d0.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0
